@@ -1,0 +1,19 @@
+# Ignore files and folders
+
+# NodeJs
+node_modules/
+
+# IDE Files
+.vscode/
+.atom/
+.Sublime/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Log files
+logs/
+
+# Build files
+build/
